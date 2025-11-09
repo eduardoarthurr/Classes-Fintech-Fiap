@@ -1,10 +1,10 @@
 # NEXO – Sistema de Organização Financeira
 
-Este repositório contém o desenvolvimento da interface de um sistema chamado **NEXO**, criado como projeto acadêmico para fins de estudo e apresentação.
+Este repositório contém o desenvolvimento das classes em Java de um sistema de organização financeira, criado como projeto acadêmico para fins de estudo e apresentação.
 
 ## 📚 Sobre o Projeto
 
-O **NEXO** é um sistema de controle financeiro pessoal desenvolvido para um projeto universitário. A proposta é oferecer uma plataforma simples, intuitiva e acessível que ajude o usuário a:
+O projeto fintech é um sistema de controle financeiro pessoal desenvolvido para um projeto universitário. A proposta é oferecer uma plataforma simples, intuitiva e acessível que ajude o usuário a:
 
 - 📌 Organizar seus gastos diários;
 - 🎯 Planejar e acompanhar metas financeiras;
@@ -17,15 +17,7 @@ O objetivo do projeto é mostrar como é possível, por meio de uma boa experiê
 
 ## 🧩 Tecnologias Utilizadas
 
-- HTML5  
-- CSS3  
-- JavaScript
-- Framework Bootstrap 
-
-
-## 📁 Estrutura
-
-A tela presente neste repositório é uma simulação de como seria a interface principal do sistema NEXO, representando o layout e as funcionalidades básicas esperadas na versão final.
+- Java 
 
 ## 👨‍🎓 Projeto Acadêmico
 
