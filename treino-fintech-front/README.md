@@ -1,10 +1,10 @@
 # FINTECH – Sistema de Organização Financeira
 
-Este repositório contém o desenvolvimento das classes em Java e a simulação de uma tela de um sistema de organização financeira, criado como projeto acadêmico para fins de estudo e apresentação para uma futura implementação completa.
+Este repositório contém o desenvolvimento dE uma interface. Uma simulação de uma possivel tela do sistema, criado como projeto acadêmico para fins de estudo e apresentação.
 
 ## 📚 Sobre o Projeto
 
-O projeto fintech é um sistema de controle financeiro pessoal desenvolvido para um projeto universitário. A proposta é oferecer uma plataforma simples, intuitiva e acessível que ajude o usuário a:
+A fintech é um sistema de controle financeiro pessoal desenvolvido para um projeto universitário. A proposta é oferecer uma plataforma simples, intuitiva e acessível que ajude o usuário a:
 
 - 📌 Organizar seus gastos diários;
 - 🎯 Planejar e acompanhar metas financeiras;
@@ -17,11 +17,20 @@ O objetivo do projeto é mostrar como é possível, por meio de uma boa experiê
 
 ## 🧩 Tecnologias Utilizadas
 
-- Java
-- HTML
-- CSS
+- HTML5  
+- CSS3  
 - JavaScript
-- Bootstrap
+- Framework Bootstrap 
+
+
+## 📁 Estrutura
+
+A tela presente neste repositório é uma simulação de como seria a interface principal do sistema NEXO, representando o layout e as funcionalidades básicas esperadas na versão final.
+
+## 🖼️ Demonstração
+
+![Preview tela ]()
+
 
 ## 👨‍🎓 Projeto Acadêmico
 
