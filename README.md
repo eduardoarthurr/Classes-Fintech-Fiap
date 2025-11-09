@@ -1,6 +1,6 @@
 # FINTECH – Sistema de Organização Financeira
 
-Este repositório contém o desenvolvimento das classes em Java de um sistema de organização financeira, criado como projeto acadêmico para fins de estudo e apresentação.
+Este repositório contém o desenvolvimento das classes em Java e a simulação de uma tela de um sistema de organização financeira, criado como projeto acadêmico para fins de estudo e apresentação.
 
 ## 📚 Sobre o Projeto
 
@@ -17,7 +17,11 @@ O objetivo do projeto é mostrar como é possível, por meio de uma boa experiê
 
 ## 🧩 Tecnologias Utilizadas
 
-- Java 
+- Java
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
 ## 👨‍🎓 Projeto Acadêmico
 
