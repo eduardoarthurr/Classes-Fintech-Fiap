@@ -1,4 +1,4 @@
-# Fintech – Sistema de Organização Financeira
+# FINTECH – Sistema de Organização Financeira
 
 Este repositório contém o desenvolvimento das classes em Java de um sistema de organização financeira, criado como projeto acadêmico para fins de estudo e apresentação.
 
