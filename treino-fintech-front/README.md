@@ -29,7 +29,7 @@ A tela presente neste repositório é uma simulação de como seria a interface 
 
 ## 🖼️ Demonstração
 
-![Preview tela ]()
+![Preview tela ](https://github.com/eduardoarthurr/Classes-Fintech-Fiap/blob/main/treino-fintech-front/imagens/Print_tela.png)
 
 
 ## 👨‍🎓 Projeto Acadêmico
